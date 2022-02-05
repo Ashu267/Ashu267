@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashu267
+- 👋 Hi, I’m @Ashutosh Kumar
 - 👀 I’m interested in Machine learning and Artificial Intelligence
 - 🌱 I’m currently learning Artificial intelligence
 - 💞️ I’m looking to collaborate on Machine learning and AI projects.
